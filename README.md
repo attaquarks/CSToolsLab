@@ -15,7 +15,7 @@ Atta:
 First I fetched the changes from remote repository using pull command
 I created another branch "improvement2".
 Added more dense layers in the model to improve accuracy.
-Then I merged the "improvement2" and "master" branches.
+Then I merged the "master" and "improvement2" branches.
 Resolved the merged conflicts successfully.
 Commit changes and pushed it to remote repository.
 
@@ -23,7 +23,7 @@ Harris:
 I fetched the recent changes from remote repository to my local branch.
 Then I created another branch "finalCode".
 Added more features like earlyStopping, increased the epochs to enhance the origial Model.
-Merged the branches "finalCode" and "master".
+Merged the branches "master" and "finalCode".
 Successfully resolved the merge conflicts in my teammates' repository.
 Pushed the final changes to remote repository.
 
